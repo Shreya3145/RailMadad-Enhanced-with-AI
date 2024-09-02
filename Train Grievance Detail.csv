@@ -1,0 +1,64 @@
+Mobile no, Journey Details(PNR or UTS), PNR no, Type, Sub type(details), Incident date, Upload incident regarding photos, Grievance Description
+7890123456, PNR3456789012, 3456789012, Medical Assistance, No medical help available for a passenger with chest pain, 2024-08-26, [Link to photo], A fellow passenger suffered chest pain, and no medical help was available onboard.
+8901234567, UTS4567890123, 4567890123, Security, Unattended baggage found, 2024-08-25, [Link to photo], An unattended bag was found in the coach, causing panic among passengers.
+9012345678, PNR5678901234, 5678901234, Divyangjan Facilities, No ramp available for boarding, 2024-08-24, [Link to photo], A passenger on a wheelchair faced difficulty boarding due to lack of ramp.
+6789012345, UTS6789012345, 6789012345, Electrical Equipment, Faulty AC in the coach, 2024-08-23, [Link to photo], The AC was not working properly, making the journey uncomfortable in hot weather.
+5678901234, PNR7890123456, 7890123456, Coach - Cleanliness, Unclean toilets, 2024-08-22, [Link to photo], The toilets were unclean and lacked basic hygiene standards.
+4567890123, UTS8901234567, 8901234567, Water Availability, No drinking water in the coach, 2024-08-21, [Link to photo], There was no drinking water available, causing inconvenience to passengers.
+3456789012, PNR9012345678, 9012345678, Coach - Maintenance, Broken seat, 2024-08-20, [Link to photo], A seat in the coach was broken, making it difficult for the passenger to sit comfortably.
+2345678901, UTS0123456789, 0123456789, Staff Behaviour, Rude behavior by ticket checker, 2024-08-19, [Link to photo], The ticket checker was rude and uncooperative with passengers.
+1234567890, PNR1122334455, 1122334455, Corruption / Bribery, Demanding extra money for seat allocation, 2024-08-18, [Link to photo], A staff member demanded extra money for allocating a seat to a passenger.
+0123456789, UTS2233445566, 2233445566, Miscellaneous, Loud noise in the coach, 2024-08-17, [Link to photo], Loud noise from passengers in the coach disturbed others, and no action was taken by the staff.
+Mobile no, Journey Details(PNR or UTS), PNR no, Type, Sub type(details), Incident date, Upload incident regarding photos, Grievance Description
+9876543210, PNR1234567890, 1234567890, Punctuality, Delayed by 2 hours due to signal failure, 2024-08-29, [Link to photo], Train was significantly delayed causing inconvenience to passengers.
+8765432109, UTS9876543210, 9876543210, Facilities for Women with Special needs, Lack of accessible washroom facilities, 2024-08-28, [Link to photo], No wheelchair accessible washrooms were available on the train.
+7654321098, PNR2345678901, 2345678901, Catering & Vending Services, Poor quality food served, 2024-08-27, [Link to photo], Food quality was below standard and caused discomfort to passengers.
+Mobile no, Journey Details(PNR or UTS), PNR no, Type, Sub type(details), Incident date, Upload incident regarding photos, Grievance Description
+9876543211, PNR1234507891, 1234507891, Medical Assistance, First aid kit unavailable, 2024-09-01, [Link to photo], No first aid kit available during a medical emergency.
+9876543212, UTS9876512345, 9876512345, Security, Unruly behavior by other passengers, 2024-09-02, [Link to photo], Passengers were behaving inappropriately, and no action was taken.
+9876543213, PNR1234523465, 1234523465, Divyangjan Facilities, Wheelchair ramp not provided, 2024-08-31, [Link to photo], No ramp available for wheelchair users at the station.
+9876543214, PNR1234534578, 1234534578, Facilities for Women with Special needs, No separate coach for women, 2024-09-01, [Link to photo], The train did not have a separate coach for women.
+9876543215, PNR1234545679, 1234545679, Electrical Equipment, Faulty charging points, 2024-08-30, [Link to photo], Charging points in the coach were not working.
+9876543216, PNR1234556789, 1234556789, Coach - Cleanliness, Litter in coach, 2024-09-01, [Link to photo], The coach was full of litter and not cleaned.
+9876543217, UTS9876523456, 9876523456, Punctuality, Train delayed by 3 hours, 2024-09-02, [Link to photo], Train was delayed by 3 hours without any proper announcement.
+9876543218, PNR1234567891, 1234567891, Water Availability, No drinking water available, 2024-09-01, [Link to photo], No drinking water was available in the coach.
+9876543219, PNR1234578901, 1234578901, Coach - Maintenance, Broken seats, 2024-08-31, [Link to photo], Seats were broken and uncomfortable for long journeys.
+9876543220, PNR1234589012, 1234589012, Catering & Vending Services, Overpriced food, 2024-08-30, [Link to photo], Food sold on the train was overpriced compared to market rates.
+9876543221, UTS9876534567, 9876534567, Staff Behaviour, Rude behavior by staff, 2024-09-01, [Link to photo], Staff were rude and uncooperative when asked for assistance.
+9876543222, PNR1234590123, 1234590123, Corruption / Bribery, Asked for a bribe to allot a seat, 2024-09-02, [Link to photo], The ticket inspector asked for a bribe to allot a seat in the reserved coach.
+9876543223, PNR1234601234, 1234601234, Bed Roll, Bed sheets were dirty, 2024-09-01, [Link to photo], Bed sheets provided were dirty and unwashed.
+9876543224, UTS9876545678, 9876545678, Miscellaneous, Unavailability of food at night, 2024-08-30, [Link to photo], No food was available on the train during nighttime.
+9876543225, PNR1234612345, 1234612345, Medical Assistance, No doctor on board, 2024-09-01, [Link to photo], There was no doctor available on board during a medical emergency.
+9876543226, PNR1234623456, 1234623456, Security, Theft of personal belongings, 2024-08-31, [Link to photo], Personal belongings were stolen, and no action was taken by the authorities.
+9876543227, UTS9876556789, 9876556789, Divyangjan Facilities, Inaccessible washrooms, 2024-09-02, [Link to photo], Washrooms were not accessible for wheelchair users.
+9876543228, PNR1234634567, 1234634567, Facilities for Women with Special needs, No security personnel in women's coach, 2024-09-01, [Link to photo], No security personnel were present in the women's coach during the journey.
+9876543229, PNR1234645678, 1234645678, Electrical Equipment, Non-functioning fans, 2024-08-30, [Link to photo], Fans in the coach were not working, causing discomfort.
+9876543230, PNR1234656789, 1234656789, Coach - Cleanliness, Overflowing garbage bins, 2024-08-31, [Link to photo], Garbage bins were overflowing, creating a foul smell in the coach.
+9876543231, UTS9876567890, 9876567890, Punctuality, Train arrived late by 4 hours, 2024-09-02, [Link to photo], The train was delayed by 4 hours, causing inconvenience to passengers.
+9876543232, PNR1234667890, 1234667890, Water Availability, Contaminated drinking water, 2024-09-01, [Link to photo], The drinking water provided on the train was contaminated.
+9876543233, PNR1234678901, 1234678901, Coach - Maintenance, Faulty air conditioning, 2024-08-31, [Link to photo], The air conditioning in the coach was not working properly.
+9876543234, PNR1234689012, 1234689012, Catering & Vending Services, Food was stale, 2024-08-30, [Link to photo], The food served on the train was stale and unfit for consumption.
+9876543235, UTS9876578901, 9876578901, Staff Behaviour, Staff ignored complaints, 2024-09-01, [Link to photo], The staff ignored complaints made by passengers regarding the service.
+9876543236, PNR1234690123, 1234690123, Corruption / Bribery, Bribe demanded for confirming ticket, 2024-09-02, [Link to photo], A bribe was demanded to confirm the reservation ticket.
+9876543237, PNR1234701234, 1234701234, Bed Roll, Pillow covers were torn, 2024-09-01, [Link to photo], The pillow covers provided were torn and in bad condition.
+9876543238, UTS9876589012, 9876589012, Miscellaneous, Lack of information at stations, 2024-08-30, [Link to photo], Information regarding train arrivals and departures was not properly displayed at the station.
+9876543239, PNR1234712345, 1234712345, Medical Assistance, Delay in medical help, 2024-09-01, [Link to photo], There was a significant delay in providing medical assistance during an emergency.
+9876543240, PNR1234723456, 1234723456, Security, No security check at the entrance, 2024-08-31, [Link to photo], There was no security check at the station entrance, posing a security risk.
+9876543241, UTS9876590123, 9876590123, Divyangjan Facilities, No assistance provided for boarding, 2024-09-02, [Link to photo], No assistance was provided for a wheelchair user to board the train.
+9876543242, PNR1234734567, 1234734567, Facilities for Women with Special needs, Lack of sanitary facilities, 2024-09-01, [Link to photo], Sanitary facilities for women were not available on the train.
+9876543243, PNR1234745678, 1234745678, Electrical Equipment, Lights flickering in the coach, 2024-08-30, [Link to photo], The lights in the coach were flickering, causing inconvenience to passengers.
+9876543244, PNR1234756789, 1234756789, Coach - Cleanliness, Dirty washrooms, 2024-08-31, [Link to photo], The washrooms in the coach were dirty and unhygienic.
+9876543245, UTS9876601234, 9876601234, Punctuality, Train left early without announcement, 2024-09-02, [Link to photo], The train left the station earlier than scheduled without any prior announcement.
+9876543246, PNR1234767890, 1234767890, Water Availability, Water dispenser not working, 2024-09-01, [Link to photo], The water dispenser in the coach was not working, leaving passengers without drinking water.
+9876543247, PNR1234778901, 1234778901, Coach - Maintenance, Broken windows, 2024-08-31, [Link to photo], The windows in the coach were broken, causing discomfort during the journey.
+9876543248, PNR1234789012, 1234789012, Catering & Vending Services, Food not delivered, 2024-08-30, [Link to photo], The food ordered
+9876543249, PNR1245678901, 1245678901, Security, Theft of wallet and phone, 2024-09-01, [Link to photo], My wallet and phone
+9876543250, UTS1234567890, 1234567890, Security, Bag snatched at the station, 2024-09-02, [Link to photo], A thief snatched my bag at the station and ran away. No security was present.
+9876543251, PNR1234780123, 1234780123, Security, Robbery during the journey, 2024-09-01, [Link to photo], A group of men robbed passengers in my coach during the night. No security personnel were available.
+9876543252, PNR1234781234, 1234781234, Security, Pickpocketing on the platform, 2024-09-02, [Link to photo], My wallet was pickpocketed on the platform while I was boarding the train.
+9876543253, PNR1234782345, 1234782345, Security, Luggage stolen from the train, 2024-09-01, [Link to photo], My luggage was stolen from the overhead compartment during the journey.
+9876543254, PNR1234783456, 1234783456, Security, Jewelry snatched in the coach, 2024-09-02, [Link to photo], My jewelry was snatched by a fellow passenger who ran away when the train stopped.
+9876543255, PNR1234784567, 1234784567, Security, Robbery of valuables at night, 2024-09-01, [Link to photo], My bag containing valuables was stolen while I was asleep during the night journey.
+9876543256, UTS9876543210, 9876543210, Security, Robbery of cash and documents, 2024-09-02, [Link to photo], A thief stole my cash and important documents from my bag in the coach.
+9876543257, PNR1234785678, 1234785678, Security, Theft of laptop and gadgets, 2024-09-01, [Link to photo], My laptop and other gadgets were stolen from my bag during the train journey.
+9876543258, PNR1234786789, 1234786789, Security, Robbery of personal belongings, 2024-09-02, [Link to photo], My personal belongings were robbed by unidentified persons while the train was halted.
