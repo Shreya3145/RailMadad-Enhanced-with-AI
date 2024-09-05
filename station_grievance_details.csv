@@ -1,0 +1,21 @@
+Complaint Type,Complaint Subtype,Incident Date,Photo File,Mobile Number
+Cleanliness,Dirty Coach,8/15/2024,dirty_coach_001.jpg,9876543210
+Food Quality,Stale Food,8/14/2024,stale_food_001.jpg,9987654321
+Train Delay,Late Arrival,8/10/2024,late_arrival_001.jpg,9871234560
+Ticketing,Incorrect Fare Charged,8/12/2024,incorrect_fare_001.jpg,9876543321
+Cleanliness,Overflowing Toilets,8/9/2024,toilet_overflow_001.jpg,9812345678
+Security,Theft,8/8/2024,theft_incident_001.jpg,9876542231
+Food Quality,Unhygienic Conditions,8/18/2024,unhygienic_food_001.jpg,9871223456
+Train Delay,Missed Connection,8/17/2024,missed_connection_001.jpg,9998765432
+Staff Behavior,Rude Staff,8/11/2024,rude_staff_001.jpg,9871654320
+Cleanliness,Littering in Compartments,8/16/2024,litter_001.jpg,9823456789
+Train Delay,Delay Due to Signal Issue,8/19/2024,signal_issue_001.jpg,9871765432
+Ticketing,No Refund Received,8/21/2024,no_refund_001.jpg,9887654320
+Food Quality,Cold Food,8/20/2024,cold_food_001.jpg,9812345621
+Security,Lost Luggage,8/13/2024,lost_luggage_001.jpg,9871876540
+Cleanliness,No Dustbins in Compartments,8/22/2024,no_dustbins_001.jpg,9812456732
+Staff Behavior,Unresponsive Ticket Checker,8/23/2024,ticket_checker_001.jpg,9871987654
+Security,Unattended Baggage,8/24/2024,unattended_baggage_001.jpg,9872012345
+Train Delay,Delay Due to Engine Failure,8/25/2024,engine_failure_001.jpg,9872134567
+Ticketing,Website Issues,8/26/2024,website_issue_001.jpg,9872256789
+Cleanliness,Smelly Coach,8/27/2024,smelly_coach_001.jpg,9872367890
