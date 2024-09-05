@@ -1,0 +1,21 @@
+Type,Subtype,Inquiry Date,File,Mobile Number
+Luggage,Lost Luggage,8/15/2024,lost_luggage_001.jpg,9876543210
+Parcel,Delayed Parcel,8/14/2024,delayed_parcel_001.jpg,9987654321
+Goods,Damaged Goods,8/10/2024,damaged_goods_001.jpg,9871234560
+Luggage,Misplaced Luggage,8/12/2024,misplaced_luggage_001.jpg,9876543321
+Parcel,Incorrect Delivery,8/9/2024,incorrect_delivery_001.jpg,9812345678
+Goods,Missing Consignment,8/8/2024,missing_consignment_001.jpg,9876542231
+Luggage,Unclaimed Luggage,8/18/2024,unclaimed_luggage_001.jpg,9871223456
+Parcel,Parcel Lost in Transit,8/17/2024,parcel_lost_001.jpg,9998765432
+Goods,Wrong Goods Delivered,8/11/2024,wrong_goods_001.jpg,9871654320
+Luggage,Stolen Luggage,8/16/2024,stolen_luggage_001.jpg,9823456789
+Parcel,Package Not Received,8/19/2024,package_not_received_001.jpg,9871765432
+Goods,Goods Misrouted,8/21/2024,goods_misrouted_001.jpg,9871764320
+Luggage,Bag Damaged,8/20/2024,bag_damaged_001.jpg,9812345621
+Parcel,Incorrect Address,8/13/2024,incorrect_address_001.jpg,9871876540
+Goods,Lost Shipment,8/22/2024,lost_shipment_001.jpg,9812456732
+Luggage,Wrong Bag Returned,8/23/2024,wrong_bag_001.jpg,9871987654
+Parcel,Parcel Damaged,8/24/2024,parcel_damaged_001.jpg,9872012345
+Goods,Goods Delayed,8/25/2024,goods_delayed_001.jpg,9872134567
+Luggage,Lost Bag in Station,8/26/2024,lost_bag_station_001.jpg,9872256789
+Parcel,Lost Delivery Receipt,8/27/2024,lost_receipt_001.jpg,9872367890
